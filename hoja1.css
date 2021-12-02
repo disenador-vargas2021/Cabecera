@@ -1,0 +1,40 @@
+/* hoja estilo1.css*/
+center {
+	justify-content: center;
+	color: red;
+	text-decoration: underline;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+table {
+	width: 80%;
+	height: 300px;
+}
+th {
+	font-size: 20px;
+}
+h1 {
+	color: blue;
+	text-align: right;
+}
+h2 {
+	color: green;
+	text-align: center;
+}
+h3 {
+	color: red;
+	text-align: left;
+}
+h4 {
+	color: red;
+	text-align: center;
+}
+h5 {
+	color: yellow;
+	text-align: left;
+}
+h6 {
+	color: black;
+	text-align: right;
+}
